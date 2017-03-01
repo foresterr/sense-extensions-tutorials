@@ -1,0 +1,9 @@
+{
+    "name": "My first extension lol",
+    "description": "Extensions tutorial, first lesson",
+    "icon": "extension",
+    "preview": "thumbnail.png",
+    "type": "visualization",
+    "version": "0.0",
+    "author": "Kuba Michalik"
+}
