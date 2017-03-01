@@ -1,0 +1,9 @@
+{
+    "name": "Data use tutorial",
+    "description": "Extensions tutorial, third lesson",
+    "icon": "extension",
+    "preview": "thumbnail.png",
+    "type": "visualization",
+    "version": "0.0",
+    "author": "Kuba Michalik"
+}
